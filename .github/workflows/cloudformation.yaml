@@ -20,5 +20,5 @@ jobs:
         run: |
           aws cloudformation deploy \
             --template-file cloudformation.yaml \
-            --stack-name gonzalohk1989-s3bucket \
+            --stack-name gonzalohk1989-s3bucket2 \
             --no-fail-on-empty-changeset

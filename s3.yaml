@@ -5,4 +5,4 @@ Resources:
   MyBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: gonzalohk1989-s3bucket
+      BucketName: gonzalohk1989-s3bucket2
